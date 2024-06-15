@@ -1,4 +1,5 @@
-# Technische Universität Ilmenau
+# [Technische Universität Ilmenau](https://namu.wiki/w/%EC%9D%BC%EB%A9%94%EB%82%98%EC%9A%B0%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90)
+
 ```
 [include(틀:일메나우공과대학교)]
 ||<-2><bgcolor=#008080><tablebordercolor=#008080><table width=400><tablealign=right><:>'''{{{#white 일메나우공과대학교}}}''' [br] '''{{{#white Technische Universität Ilmenau}}}'''||
