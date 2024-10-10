@@ -5,6 +5,3 @@ Markdown 형식으로 나무위키 파일을 생성하였음.
 
 <br>
 
-<p align="center">
-  <img src="Image/Project_WiKi.png" width="100%" height="100%"/>
-</p>
