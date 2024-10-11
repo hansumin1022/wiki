@@ -1,4 +1,5 @@
 # [Technische Universität Ilmenau](https://namu.wiki/w/%EC%9D%BC%EB%A9%94%EB%82%98%EC%9A%B0%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90)
+![슬라이드0003](https://github.com/user-attachments/assets/6784ab54-f378-4064-a0b0-75646805cddf)
 
 ```
 [include(틀:일메나우공과대학교)]
