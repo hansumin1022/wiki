@@ -1,4 +1,5 @@
 # [Hochschule RheinMain](https://namu.wiki/w/%EB%9D%BC%EC%9D%B8%EB%A7%88%EC%9D%B8%20%EC%9D%91%EC%9A%A9%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99%EA%B5%90)
+![슬라이드0005](https://github.com/user-attachments/assets/6c2dfccb-2d20-4665-a15a-6e6328101605)
 
 ```
 [[분류:헤센의 대학]][[분류:1971년 개교]]
