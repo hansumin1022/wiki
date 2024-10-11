@@ -1,4 +1,6 @@
 # [Fachhochschule Westküste](https://namu.wiki/w/%EC%9B%A8%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4%ED%8A%B8%20%EC%9D%91%EC%9A%A9%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99%EA%B5%90)
+![슬라이드0007](https://github.com/user-attachments/assets/eeed1853-ffa1-4415-811f-a6f3e5044669)
+
 ```
 [[분류:슐레스비히홀슈타인의 대학]][[분류:1993년 개교]]
 
