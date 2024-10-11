@@ -1,4 +1,5 @@
 # [Hochschule Osnabrück](https://namu.wiki/w/%EC%98%A4%EC%8A%A4%EB%82%98%EB%B8%8C%EB%A4%BC%ED%81%AC%20%EC%9D%91%EC%9A%A9%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99%EA%B5%90)
+![슬라이드0004](https://github.com/user-attachments/assets/c31e4132-66ed-4c19-abe6-2bf59eb66ccf)
 
 ```
 [[분류:니더작센의 대학]][[분류:1971년 개교]]
