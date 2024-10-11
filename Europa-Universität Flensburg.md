@@ -1,4 +1,5 @@
 # [Europa-Universität Flensburg](https://namu.wiki/w/%ED%94%8C%EB%A0%8C%EC%8A%A4%EB%B6%80%EB%A5%B4%ED%81%AC%20%EB%8C%80%ED%95%99%EA%B5%90)
+![슬라이드0006](https://github.com/user-attachments/assets/e0e5b1b9-cfdd-435c-afd7-83affb1c1cb9)
 
 ```
 [[분류:슐레스비히홀슈타인의 대학]][[분류:1946년 개교]]
