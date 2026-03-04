@@ -1,3 +1,7 @@
+# 한세모빌리티
+##### https://namu.wiki/edit/%ED%95%9C%EC%84%B8%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0 
+
+```
 [[분류:한세그룹]][[분류:대한민국의 자동차 부품사]][[분류:대구광역시의 기업]]
 [include(틀:한세그룹)]
 ||<-5><tablealign=center><tablebordercolor=#004590><tablewidth=100%><bgcolor=#ffffff> [[파일:HANSAEYES24HOLDINGS_LOGO.png|width=100]]{{{+1 '''한세그룹 주요 계열사'''}}} ||
@@ -165,5 +169,5 @@ Elecrtonic Stability Control, Electric Parking Brake, Cailper Brake, Power Brake
 ||<-5><tablealign=center><tablebordercolor=#08AD69><tablewidth=100%><bgcolor=#ffffff> [[파일:HANSAE_MOBILITY_LOGO.png|width=100]]{{{+1 '''주요 고객사'''}}} ||
 ||<width=25%> [[파일:폭스바겐 로고.svg|width=18px]] [[Volkswagen]] ||<width=25%> [[파일:제너럴 모터스 로고.svg|width=18px]] [[General Motors]] ||<width=25%> [[파일:스텔란티스 로고.svg|width=18px]] [[스텔란티스]] ||<width=25%> [[파일:마세라티 로고.svg|width=18px]] [[마세라티]] ||
 ||<width=25%> [[파일:포르쉐 로고(엠블럼, 워드마크).svg|width=18px]] [[Porsche]] ||<width=25%> [[파일:비야디 자동차 CI.svg|width=18px]] [[BYD]] ||<width=25%> [[파일:현대자동차 로고 세로형.svg|width=18px]] [[현대자동차]] ||<width=25%> [[파일:기아 로고.svg|width=18px]] [[KIA]] ||
-
+```
 
