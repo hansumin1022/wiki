@@ -1,3 +1,6 @@
+# 킹몽꿋 공과대학교 나무위키
+https://namu.wiki/w/%ED%86%A4%EB%B6%80%EB%A6%AC%20%ED%82%B9%EB%AA%BD%EA%BF%8B%20%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90 
+
 [[분류:태국의 대학]][[분류:1934년 개교]]
 ||<tablewidth=100%><tablealign=center><tablebordercolor=#e06a0a><tablebgcolor=#e06a0a> '''{{{#fff 킹몽꿋 공과대학교 관련 틀}}}''' ||
 ||<bgcolor=#fff,#191919> {{{#!folding [ 펼치기 · 접기 ]
